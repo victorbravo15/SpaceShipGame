@@ -1,7 +1,4 @@
 void main()
 {
-float grados;
-printf("Dime los grados Farenheit: ");
-scanf("%f",&grados);
-printf("%.1f grados Farenheit son %f grados celsius",grados,(grados -32)*5/9);
+printf("Victor es tonto")
 }
