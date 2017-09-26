@@ -1,4 +1,4 @@
 void main()
 {
-printf("Victor es tonto")
+printf("Victor es tonto"); //faltaba el punto y coma retrasado
 }
